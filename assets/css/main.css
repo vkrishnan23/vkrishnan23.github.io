@@ -1643,6 +1643,11 @@
 		font-size: 0.7em;
 		line-height: 1.5em;
 	}
+	h7 {
+		font-size: 1.0em;
+		line-height: 1.5em;
+		color: #a2a2a2;
+	}
 
 	sub {
 		font-size: 0.8em;
